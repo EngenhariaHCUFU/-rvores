@@ -172,64 +172,20 @@
 # 172![172](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/d25ff999-27f6-4085-94ef-54a625ed5d60)
 # 173![173](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/e587b29b-9510-4ee1-8780-bf546e37c913)
 # 174![174](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/af3454c7-63ad-45c5-a643-9ef0def1f072)
-# ![175](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/6c00261d-b305-487d-9ea2-488856e439cc)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 175![175](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/6c00261d-b305-487d-9ea2-488856e439cc)
+# 176![176](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/63109bc3-a3e4-4c83-bccf-8dd75ca9d5d0)
+# 177![177](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/25eac24b-07a1-4348-8631-23c4c88ed528)
+# 178![178](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/72156e8c-9ade-4f79-89f5-762f32a86951)
+# 179![179](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/2751483a-7cdb-43e6-b70a-cc1d3e4d8067)
+# 180![180](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/2ed10a29-bddb-4550-abf6-1eb65392ef2f)
+# 181![181](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/149f6643-2662-40da-9237-86dc0146137e)
+# 182![182](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/1a35d985-6eca-4701-9aca-22e1e4686aa6)
+# 183![183](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/88e33873-6f61-4f5e-a861-6a58c000c5d1)
+# 184![184](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/576bc542-77d9-4c2c-9f3a-e653cb357e25)
+# 185![185](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/0d942ab3-fbb6-4662-92ef-65b3db2d4e4c)
+# 186![186](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/dd131429-db1d-4491-b79d-f7c02db2a5a5)
+# 187![187](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/12e725f8-346d-47fa-b8e2-e55b6cf4b173)
+# 188![188](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/651dcd35-4e2d-4d09-912a-d85a75178fc5)
+# 189![189](https://github.com/EngenhariaHCUFU/-rvores/assets/137510934/04ca1516-c8da-4e31-868d-617448fdb12a)
 
 
